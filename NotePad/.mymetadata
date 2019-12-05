@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="NotePad"
+  id="myeclipse.1574840587096"
+  context-root="/NotePad"
+  j2ee-spec="6.0"
+  archive="NotePad.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
